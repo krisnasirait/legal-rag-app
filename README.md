@@ -28,7 +28,7 @@ A Retrieval-Augmented Generation (RAG) application built with **LangChain** and 
 
 ```text
 legal-rag-app/
-├── .env                # API Keys (Not committed)
+├── .env                # API Keys 
 ├── .gitignore          # Git ignore rules
 ├── requirements.txt    # Python dependencies
 ├── app.py              # Streamlit Frontend
